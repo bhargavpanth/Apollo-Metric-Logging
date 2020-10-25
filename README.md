@@ -1,4 +1,6 @@
-## Apollo metric logging extension 
+## Apollo metric logging extension
+
+[![NPM Status](https://img.shields.io/npm/dm/metascraper.svg?style=flat-square)](https://www.npmjs.com/package/apollo-metric-logging)
 
 > A library to easily send high-level GraphQL metrics to your custom logging utilities.
 
