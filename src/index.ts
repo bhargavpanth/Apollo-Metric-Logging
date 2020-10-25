@@ -6,7 +6,7 @@ import { durationHrTimeToNanos } from './utils'
 // Apollo server lifecycle documentation
 // https://www.apollographql.com/docs/graphql-subscriptions/lifecycle-events/
 
-export class GraphQLTracingExtension<TContext = any>
+export default class GraphQLTracingExtension<TContext = any>
 	implements GraphQLExtension<TContext> {
 	private logError
 	private logInfoMetric
