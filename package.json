@@ -6,6 +6,9 @@
   "author": "bhargavrpanth@gmail.com",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "build": "node_modules/.bin/tsc"
+  },
   "dependencies": {
     "apollo-server-types": "^0.6.0",
     "graphql": "^15.3.0",
