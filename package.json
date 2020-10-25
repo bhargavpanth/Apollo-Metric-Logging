@@ -1,0 +1,9 @@
+{
+  "name": "apollo-datadog-extension",
+  "version": "1.0.0",
+  "description": "Apollo server extension for sending metrics to Datadog",
+  "main": "dist/index.js",
+  "author": "bhargavrpanth@gmail.com",
+  "license": "MIT",
+  "private": false
+}
