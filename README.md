@@ -1,3 +1,4 @@
+## Apollo metric logging extension 
 
 > A library to easily send high-level GraphQL metrics to your custom logging utilities.
 
