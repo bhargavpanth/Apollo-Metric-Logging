@@ -2,7 +2,7 @@
   "name": "apollo-metric-logging",
   "version": "1.0.0",
   "description": "Apollo server extension for logging high level metrics",
-  "main": "./dist/src/index.js",
+  "main": "./dist/index.js",
   "author": "bhargavrpanth@gmail.com",
   "license": "MIT",
   "private": false,
